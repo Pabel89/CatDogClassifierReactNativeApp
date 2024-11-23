@@ -2,7 +2,7 @@
 
 Dies ist eine klientseitige App um Bilder daraufhin zu überprüfen, ob ein Hund oder eine Katze drin enthalten ist. Diese App wurde mit React Native und Expo erstellt.
 Diese App interagiert mit dem  Gunicorn Python Webserver aus dem CatDogImageClassifierServer Repo. Dieser muss daher irgendwo gestartet werden und seine URL muss unter
-/config/conf.js eingetragen werden für: API_URL.
+**/config/conf.js** eingetragen werden für: **API_URL**.
 
 ## Schritte
 
